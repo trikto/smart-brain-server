@@ -1,0 +1,3 @@
+[submodule "smaert-brain-server"]
+	path = smaert-brain-server
+	url = https://github.com/trikto/smart-brain-server.git
